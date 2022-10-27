@@ -2,7 +2,6 @@ import React from "react"
 import { useState } from 'react'
 import Boxes from "./components/Boxes"
 import Box from "./components/Box"
-import Flip from "react-reveal/Flip"
 
 export default function App() {
   const [squares, setSquares] = useState(Boxes)
