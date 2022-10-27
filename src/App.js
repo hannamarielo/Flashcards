@@ -14,7 +14,6 @@ export default function App() {
   function toggle(id) {
     setSquares(prevSquares => {
       return prevSquares.map((square) => {
-        <Flip/>
         return square.id === id ? {...square, on: !square.on } : square
       })
     })
