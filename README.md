@@ -1,3 +1,3 @@
 # Flashcards
 
-A WIP flashcards project using create-react-app.
+A WIP flashcards project created using create-react-app.
